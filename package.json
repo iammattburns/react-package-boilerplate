@@ -1,5 +1,5 @@
 {
-  "name": "@ciammattburns/react-package-boilerplate",
+  "name": "@iammattburns/react-package-boilerplate",
   "version": "1.0.1",
   "description": "A boilerplate for creating React packages with Rollup, Storybook, and Typescript.",
   "type": "module",
@@ -41,6 +41,7 @@
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^11.1.5",
     "@storybook/react": "^7.5.1",
     "@storybook/react-webpack5": "^7.5.1",
     "@typescript-eslint/eslint-plugin": "^6.9.0",

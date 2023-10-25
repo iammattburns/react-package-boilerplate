@@ -4,6 +4,7 @@
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "declaration": true,
+    "declarationDir": "dist",
     "emitDeclarationOnly": true,
     "outDir": "dist",
     "declarationMap": true,
